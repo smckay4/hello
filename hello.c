@@ -13,6 +13,7 @@
 int main(int argc, char **argv) {
 
   printf("Sawyer McKay!\n");
+  printf("Physics and Computer Science\n");
 
   return 0;
 }
